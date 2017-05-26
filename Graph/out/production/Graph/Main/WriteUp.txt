@@ -1,0 +1,6 @@
+/**
+Student: Kin Man Lui
+Assignment: Graph Code
+*/
+
+The most challenging part about this assignment is how to implement depth first traversal.

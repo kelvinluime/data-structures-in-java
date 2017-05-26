@@ -1,0 +1,12 @@
+/**
+ * Student Name: Kin Man Lui (Kelvin)
+ * Instructor: Professor Schatz
+ * Course: CS111C-001
+ * Assignment: Derived Linked List with Iterator
+ * Date: 10/19/2016
+ */
+
+This assignment is short and easy because there are only six stub methods to write,
+and there are helper methods in the base class to help us along the way,
+I decided to throw exception in my remove() method in the iterator inner class, which is more easy and
+it avoids unexpected errors.

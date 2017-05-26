@@ -1,0 +1,11 @@
+/**
+ * Student Name: Kin Man Lui (Kelvin)
+ * Instructor: Professor Schatz
+ * Course: CS111C-001
+ * Assignment: Two Queues
+ * Date: 10/5/2016
+ */
+
+ I spent about 3 hours finishing this assignment after reading the chapters. The most uncomfortable part about this
+ assignment is to understand how to reserve a space in both of the implements and how to apply this idea in different
+ methods, ex. dequeue and enqueue, splice2.

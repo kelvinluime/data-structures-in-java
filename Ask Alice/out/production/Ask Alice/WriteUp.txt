@@ -1,0 +1,20 @@
+/**
+ * Student Name: Kin Man Lui (Kelvin)
+ * Instructor: Professor Schatz
+ * Course: CS111C-001
+ * Assignment: Ask Alice
+ * Date: 10/26/2016
+ */
+
+ Here are the steps I have taken to finish this assignment:
+ 1. Create a dictionary interface
+ 2. Implement dictionary class
+ 3. Create a frequency counter class to read the file and import the data into dictionary
+ 4. Create driver class which has a main method
+
+Word shows up most often: the 1652
+Frequency of "Alice": 399
+Frequency of "Rabbit": 51
+Frequency of "Cheshire": 7
+Frequency of "Mad": 15
+Frequency of "Hatter": 56

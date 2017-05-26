@@ -1,0 +1,10 @@
+/**
+ * Student Name: Kin Man Lui (Kelvin)
+ * Instructor: Professor Schatz
+ * Course: CS111C-001
+ * Assignment: 4. Stack Implementations
+ * Date: 9/14/2016
+ */
+
+ This exercise went for me smoothly, because of the fact that we just finished the linked list and array implementations
+ and we could apply these implementations on this assignment. I spent 3 hours on this assignment and all of my methods work.

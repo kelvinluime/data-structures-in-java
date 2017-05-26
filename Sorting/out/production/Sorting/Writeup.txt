@@ -1,0 +1,15 @@
+/**
+ * Student Name: Kin Man Lui (Kelvin)
+ * Instructor: Professor Schatz
+ * Course: CS111C-001
+ * Assignment: 4. Sort Implementations
+ * Date: 21 September 2016
+ */
+Questions:
+1. How did the code writing go for you?
+2. On a scale of one to ten how confident are you that you could rewrite the sorting methods without any reference material?
+3. For what array size does the difference in the number of comparisons become significant?
+Answers:
+1. The writing went for me a little bit hard at first, but it became clearer once I read the textbook's pseudocode.
+2. 10
+3. The difference in the number of comparisons becomes significant when there are 1000 numbers
